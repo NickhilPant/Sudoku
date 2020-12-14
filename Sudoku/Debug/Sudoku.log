@@ -1,0 +1,13 @@
+﻿  Using triplet "x86-windows" from "C:\Users\nickp\Desktop\Libs\vcpkg\installed\x86-windows\"
+  Source.cpp
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(94,6): warning C4101: 'bRow': unreferenced local variable
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(95,6): warning C4101: 'bCol': unreferenced local variable
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(170,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Sudoku\Source.cpp(76): warning C4715: 'findEmpty': not all control paths return a value
+  Sudoku.vcxproj -> C:\Users\nickp\OneDrive\Documents\C++\Sudoku\Debug\Sudoku.exe
